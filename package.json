@@ -1,0 +1,31 @@
+{
+  "name": "rocket.chat.cordova",
+  "version": "0.0.1",
+  "description": "Rocket.Chat mobile applications",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.5.2",
+    "glob": "^5.0.14",
+    "nopt": "^3.0.4",
+    "q": "^1.4.1",
+    "request": "^2.65.0",
+    "shelljs": "^0.5.3",
+    "ticons": "^0.19.0",
+    "underscore": "^1.8.3",
+    "which": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RocketChat/Rocket.Chat.Cordova.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RocketChat/Rocket.Chat.Cordova/issues"
+  },
+  "homepage": "https://github.com/RocketChat/Rocket.Chat.Cordova#readme"
+}
